@@ -1,0 +1,15 @@
+In the realm of Neverland, where enchantment stretched far and wide, there lived a kind-hearted cattleman named Grassland Gus. His farm, Moo Meadows, was the sole source of the most delicious meat and milk in the kingdom. The people of Neverland would come from far and wide to procure these treasures.
+
+Some procured these items directly from the farm at wholesale rates, while others obtained them from nearby groceries at retail prices. Fresh items were available at a premium, while frozen ones were sold at standard prices.
+
+Gus packaged his dairy and meat in Enchanted Boxes. Each box held a different combination of meat and milk, and depending on their quality, some boxes were more valuable than others.
+
+To purchase these magical boxes, the denizens of Neverland used Wishing Coins, which are tokens earned through acts of kindness. Every buyer had their own unique Magic Key, which kept track of all their purchases.
+
+All exchanges of the kingdom are logged in the Enchanted Scroll, details of which are given in the file purchase.csv. The file contains records of purchases made over the last five months, including the date of purchase, the customer's magic key, the box ID purchased and purchase unit. Denizens select boxes to purchase from a list written on parchment. The dataset Boxes.csv enumerates all available boxes, including the box ID, product quality, delivery option, quantity of milk (cauldron), quantity of meat (stones) and box unit price.
+
+There is no specific train.csv for this contest. Only "purchase.csv" and "boxes.csv" are given. You have to do everything from these two files.
+
+"problem 1.csv" is given for you to predict, "sample submission 1.csv" is also there to help you about the submission template.
+
+You need to predict which of the Magic Keys given in “problem 1.csv” will buy milk and/or meat in the first 15 days of March-2019. Put Y in the purchase column if the Magic Keys will purchase and N if the Magic Keys will not make a purchase. Prepare and submit as submission.csv following the the template (sample submission 1.csv).
