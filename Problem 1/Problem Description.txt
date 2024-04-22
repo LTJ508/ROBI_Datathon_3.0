@@ -13,3 +13,6 @@ There is no specific train.csv for this contest. Only "purchase.csv" and "boxes.
 "problem 1.csv" is given for you to predict, "sample submission 1.csv" is also there to help you about the submission template.
 
 You need to predict which of the Magic Keys given in “problem 1.csv” will buy milk and/or meat in the first 15 days of March-2019. Put Y in the purchase column if the Magic Keys will purchase and N if the Magic Keys will not make a purchase. Prepare and submit as submission.csv following the the template (sample submission 1.csv).
+
+
+MAX SCORE: 0.75529

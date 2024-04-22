@@ -13,3 +13,5 @@ There is no specific train.csv for this contest. Only "purchase.csv" and "boxes.
 "problem 2.csv" is given for you to predict, "sample submission 2.csv" is also there to help you about the submission template.
 
 Magic Keys given in “problem 2.csv” purchased only one box of milk and/or meat in the first 15 days of March-2019. You need to predict which boxes were purchased by these customers in this period. Prepare and submit as submission.csv following the the template (sample submission 2.csv).
+
+MAX SCORE: 0.65752

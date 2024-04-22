@@ -13,3 +13,5 @@ There is no specific train.csv for this contest. Only "purchase.csv" and "boxes.
 "problem 3.csv" is given for you to predict, "sample submission 3.csv" is also there to help you about the submission template.
 
 “problem 3.csv” contains the Magic Keys of customers who purchased at least one box of milk and/or meat in the first 15 days of March-2019. You need to predict what quantity of meat were be purchased by them in this period. Prepare and submit as submission.csv following the the template (sample submission 3.csv).
+
+MIN RMSE: 3.27033
